@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">kittycam</string>
+    <string name="logs">Logs</string>
+    <string name="logo1">TODO</string>
+    <string name="home">TODO</string>
+    <string name="person">TODO</string>
+    <string name="notifications">Notifications</string>
+    <string name="password1">Password</string>
+    <string name="login">Login</string>
+    <string name="email_id1">Email Id</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="enter_email_id">Enter Email ID</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email_id">Email Id</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="signup">SignUp</string>
+    <string name="signup1">Sign Up</string>
+    <string name="to">TODO</string>
+</resources>
